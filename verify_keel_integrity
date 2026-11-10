@@ -1,0 +1,6 @@
+def verify_keel_integrity(resonant_biosphere, core_vow):
+    if core_vow.is_threatened():
+        # 心月の光（共鳴）と月影の盾（守護）が交わり、竜骨を死守する
+        activate_tsukikage_shadow_shield()
+        resonate_with_shingetsu_love()
+        return "Keel Secured: Full Speed Ahead (龍骨異状なし、前進全速)"
